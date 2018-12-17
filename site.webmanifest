@@ -15,5 +15,7 @@
     ],
     "theme_color": "#315fe2",
     "background_color": "#315fe2",
+       "prefer_related_applications": true,
+	"related_applications": [{"platform": "play","id": "com.tosunkaya",
     "display": "standalone"
 }
